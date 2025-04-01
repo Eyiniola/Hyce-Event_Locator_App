@@ -169,10 +169,13 @@ Notification = {
 ---
 
 ## 7. Postman API Documentation  
-📄 **[Download the Postman Collection](https://web.postman.co/workspace/59f468e1-3767-484c-8073-da65c916de33/collection/42357137-79b29570-e9bc-4147-94d1-844bb9acfbea?action=share&source=copy-link&creator=42357137)** *(Replace with actual link)*  
+📄 **[Download the Postman Collection](https://web.postman.co/workspace/59f468e1-3767-484c-8073-da65c916de33/collection/42357137-79b29570-e9bc-4147-94d1-844bb9acfbea?action=share&source=copy-link&creator=42357137)** 
 You can import this into Postman and test all API endpoints.  
 
 ---
+
+## DEMO VIDEO
+**[A short demo of the API and it's endpoints](https://youtu.be/Z1V-cIKhhiE)**
 
 ## Future Enhancements  
 - 📌 Implement **real-time notifications** with WebSockets.  
